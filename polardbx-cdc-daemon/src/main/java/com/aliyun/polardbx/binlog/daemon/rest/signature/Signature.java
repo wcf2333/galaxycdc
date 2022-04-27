@@ -30,7 +30,7 @@ import java.util.TreeMap;
 
 /**
  * Created by hongxi.chx on 2017/8/9.
- * recode ShuGuang at manager2.0
+ * recode ShuGuang at manager
  */
 public class Signature {
 

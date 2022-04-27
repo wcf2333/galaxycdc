@@ -838,7 +838,7 @@ public enum SqlKind {
     /**
      * @deprecated Use {@link #GROUPING}.
      */
-    @Deprecated // to be removed before 2.0
+    @Deprecated
         GROUPING_ID,
 
     /**
